@@ -1,0 +1,19 @@
+
+body {background-color: black;}
+.logo {margin-left: 50%;
+padding-top: 10px;
+color:  white;}
+
+#logo {padding-left: 15%;
+	
+
+	padding:  50px 0 0 0;
+}
+
+footer {text-align: center;
+font-family: courier new;
+font-size: 14px;
+padding:  10px;
+}
+
+footer a {text-decoration: none;}
